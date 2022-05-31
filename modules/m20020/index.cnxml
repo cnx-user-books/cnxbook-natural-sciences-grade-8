@@ -1,0 +1,148 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Units of electricity</title>
+  <metadata>
+  <md:content-id>m20020</md:content-id><md:title>Units of electricity</md:title>
+  <md:abstract/>
+  <md:uuid>d0123b1a-91b9-4c11-aa1f-d95964cac12f</md:uuid>
+</metadata>
+
+<content>
+    <section id="id15068172">
+      <title>NATURAL SCIENCES</title>
+      <para id="para-id15068172">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id14674524">
+      <title>Grade 8 </title>
+      <para id="para-id14674524">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id14529719">
+      <title>ENERGY: ELECTRICITY, HEAT AND LIGHT</title>
+      <para id="para-id14529719">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id14963008">
+      <title>Module 9</title>
+      <para id="para-id14963008">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id14892165">
+      <title>Units of Electricity</title>
+      <section id="id15055289">
+        <title>ACTIVITY:</title>
+        <para id="para-id15055289">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+        </para>
+      </section>
+      <section id="id14542082">
+        <title>To calculate electricity costs [LO 1.3, LO 2.4]</title>
+        <list id="id14714908" list-type="bulleted">
+          <item>You may know that the unit in which electricity is sold is known as <emphasis effect="bold">kilowatt per hour – kW/hour</emphasis></item>
+        </list>
+        <para id="id15191495">1 kWh is the amount of electric energy that an appliance with a power rating of 1 kW uses in one hour.</para>
+        <para id="id14767175">We use the following formula to calculate the kWh of any appliance:</para>
+        <para id="id14767180">KWh = power x time</para>
+        <para id="id8622409">Say you want to know how much energy your hair drier (1 500 W = 1,5 kW) uses in 20 minutes (20 minutes = 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>1</m:mn><m:mn>3</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {1}  over  {3} } } {}</m:annotation></m:semantics></m:math> of an hour):</para>
+        <para id="id14656001">KWh = power rating x time</para>
+        <para id="id15277511"> = 1 500 W x 0,333</para>
+        <para id="id14912181"> = 1,5 kW x 0,333</para>
+        <para id="id14715230"> = 0,5 kWh</para>
+        <para id="id14155911"/>
+        <para id="id14327806">You use the following formula to calculate the cost of the use of an electrical appliance:</para>
+        <para id="id14528673">Cost = electrical energy in kWh x cost of 1 kWh</para>
+        <para id="id14771300">Supposing that 1 kWh costs 50c, the above hair drier will cost:</para>
+        <para id="id15323849">Cost = 0,5 kWh x 50c</para>
+        <para id="id15025448"> = 25c</para>
+        <para id="id13214285"> = R0,25</para>
+        <para id="id14902888">Assignment 1:</para>
+        <para id="id15189422">Examine the pictures and calculate the cost of using each appliance. Electricity costs R2, 50 per kW.</para>
+        <figure id="id15002177">
+          <media id="id15002177_media" alt="">
+            <image mime-type="image/png" src="../../media/graphics1-4abd.png" id="id15002177__onlineimage" height="160" width="138"/>
+          </media>
+        </figure>
+        <para id="id15194062">Light bulb in use: 100 w for 5 hours</para>
+        <figure id="id15024272">
+          <media id="id15024272_media" alt="">
+            <image mime-type="image/png" src="../../media/graphics2-e245.png" id="id15024272__onlineimage" height="121" width="202"/>
+          </media>
+        </figure>
+        <para id="id15169958">TV in use: 80W for 5 hours</para>
+        <para id="id15169962">
+          <figure id="id15191898">
+            <media id="id15191898_media" alt="">
+              <image mime-type="image/png" src="../../media/graphics3-6d9d.png" id="id15191898__onlineimage" height="135" width="193"/>
+            </media>
+          </figure>
+        </para>
+        <para id="id14874913">Iron in use: 1500 W for 2 hours</para>
+        <para id="id14874552">Assessment of Calculations</para>
+        <para id="id14288658">Were you able to do the calculations correctly?</para>
+        <para id="id14531039">         [LO 1.3; LO 2.4]</para>
+        <para id="id14046681"/>
+      </section>
+    </section>
+    <section id="id14934164">
+      <title>Assessment</title>
+      <para id="id15227063">LO 1: Scientific investigations: </para>
+      <para id="id15047079">The learner will be able to act confidently on curiosity about natural phenomena, and to investigate relationships and solve problems in scientific, technological and environmental contexts.</para>
+      <para id="id12716541">This is evident when the learner:</para>
+      <list id="id12716544" list-type="bulleted">
+        <item>evaluates data and communicates findings.</item>
+      </list>
+      <para id="id15847871">LO 2: Constructing Science Knowledge: </para>
+      <para id="id15175191">The learner will know and be able to interpret and apply scientific, technological and environmental knowledge.</para>
+      <para id="id4110081">This is evident when the learner:</para>
+      <para id="id5853500">2.4 applies knowledge.</para>
+      <para id="id14648623"/>
+    </section>
+    <section id="id15848020">
+      <title>Memorandum </title>
+      <para id="id14669007">Assignment 1</para>
+      <para id="id15279981">UNITS of ELECTRICITY</para>
+      <para id="id15279986"><emphasis effect="bold"/>The amount of electricity that is used by an appliance depends on the type of appliance and the length of time for which it is used. </para>
+      <para id="id14677552"><emphasis effect="bold"/>Appliances used for generating heat, like stoves (ovens), kettles, irons and hot water cylinders general use much more electricity and are more costly. Very powerful halogen light bulbs (spotlights) also consume much electricity, while appliances fitted with microchips or small motors, like electric toothbrushes and razors, will use less.</para>
+      <para id="id14538720"><emphasis effect="bold"/>Each appliance bears an indication of its value - the <emphasis effect="bold">watt value</emphasis>. This is the appliance's <emphasis effect="bold">power rating</emphasis>. It is usually indicated on the outer cover of the appliance, like in the case of a light bulb. A 100-Watt light bulb will burn more brightly than a 60-Watt light bulb.</para>
+      <para id="id14014374"><emphasis effect="bold"/>Watt actually indicates the amount of electricity per second that the appliance will use. As the watt unit is relatively small, we usually speak in terms of <emphasis effect="bold">kilowatt (kW)</emphasis></para>
+      <list id="id15886000" list-type="bulleted">
+        <item>1 kW = 1000 W</item>
+      </list>
+      <para id="id15963262"><emphasis effect="bold"/>A unit of electricity is read in terms of the amount of electricity that a 1 kW appliance will use in one hour or a 100 W appliance will use in 10 hours. This is the unit in which electricity is sold to consumers.</para>
+      <para id="id15281443"><emphasis effect="bold"/>Your 100-W light bulb will therefore burn for 10 hours on 1 kW of electricity. Your father will be able to operate his electric drill (500W) for two hours only.</para>
+      <figure id="id15002691">
+        <media id="id15002691_media" alt="">
+          <image mime-type="image/png" src="../../media/graphics4-17b3.png" id="id15002691__onlineimage" height="651" width="656"/>
+        </media>
+      </figure>
+      <para id="id13462729"> We know that electricity is sold units of <emphasis effect="bold">kilowatt per hour – kW/hour</emphasis></para>
+      <list id="id15002731" list-type="bulleted">
+        <item>1 kWh is the amount of electrical energy that an appliance with a rating of 1 kW uses in one hour.</item>
+      </list>
+      <para id="id15340213"> To determine the Wh rating of an appliance, we use the following formula:</para>
+      <list id="id15067004" list-type="bulleted">
+        <item>kWh = power rating x time</item>
+      </list>
+      <para id="id5855336"> If you, for instance, want to know how much energy your hairdryer (1500W) uses in 20 minutes, you work it out like this:</para>
+      <list id="id15191053" list-type="bulleted">
+        <item>kWh = power rating x time</item>
+        <item>1 500w /1000w x 0.3</item>
+        <item>= 0.45 kWh</item>
+      </list>
+      <para id="id14782074"> The cost of using an electrical appliance can be determined by means of the following formula:</para>
+      <list id="id14781364" list-type="bulleted">
+        <item>Cost = electrical energy in kWh x cost of 1 kWh</item>
+      </list>
+      <para id="id14671852"> Supposing that 1 kWh costs 50c, the use of your hairdryer (above) will cost:</para>
+      <list id="id14754553" list-type="bulleted">
+        <item>Cost = 0.45 kWh x 50c</item>
+        <item>= R 2,25</item>
+      </list>
+    </section>
+  </content>
+</document>

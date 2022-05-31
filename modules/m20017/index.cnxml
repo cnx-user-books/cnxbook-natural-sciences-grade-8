@@ -1,0 +1,178 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Electric Circuits</title>
+  <metadata>
+  <md:content-id>m20017</md:content-id><md:title>Electric Circuits</md:title>
+  <md:abstract/>
+  <md:uuid>29505435-5495-4bfe-a5ad-2cd389d78921</md:uuid>
+</metadata>
+
+<content>
+    <section id="id6489842">
+      <title>NATURAL SCIENCES </title>
+      <para id="para-id6489842">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id6489850">
+      <title>Grade 8 </title>
+      <para id="para-id6489850">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id7077097">
+      <title>Energy: Electicity, heat and light</title>
+      <para id="para-id7077097">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id7077105">
+      <title>Module 5</title>
+      <para id="para-id7077105">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id7077113">
+      <title>Electric circuits </title>
+      <para id="id7077127">An electric circuit consists of:</para>
+      <para id="id7077131"> a source – cell (battery or cells)</para>
+      <para id="id7077141"> conductors – wires</para>
+      <para id="id7077149"> a switch – control point</para>
+      <para id="id7077158"> other components like light bulbs, resistors and measuring instruments.</para>
+      <para id="id7077168">a Battery is a collection of cells.</para>
+      <section id="id7077172">
+        <title>ACTIVITY</title>
+        <para id="para-id7077172">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+        </para>
+      </section>
+      <section id="id7077180">
+        <title>To investigate the different components in a circuit and the symbols used to represent them [LO 2.3]</title>
+        <para id="id7077192">Assignment 1:</para>
+        <para id="id7077197"> Draw a simple sketch of a single torch cell. One end has a protrusion, this is the positive pole. The opposite end is the negative pole. Add the labels “positive pole”, “negative pole”.</para>
+        <para id="id7077214"> Now draw three more torch cells in a battery, as they would be placed in the shaft of a torch – what do you notice about the positive and negative poles.</para>
+        <para id="id7077228"> This forms a battery and the cells are linked in series.</para>
+        <para id="id7077237">Assessment of Sketch</para>
+        <para id="id7077257">Were you able to draw the sketch and add labels correctly?</para>
+        <para id="id7077262">          [LO 2.3]</para>
+        <para id="id7077277"/>
+        <para id="id7077281">Drawing a number of components is time consuming and cumbersome. Using symbols saves time. These symbols are used internationally!</para>
+        <para id="id7077291">
+          <emphasis effect="bold">following symbols are used:</emphasis>
+        </para>
+        <figure id="id7077302">
+          <media id="id7077302_media" alt="">
+            <image mime-type="image/png" src="../../media/graphics1-cd8a.png" id="id7077302__onlineimage" height="386" width="125"/>
+          </media>
+        </figure>
+        <para id="id7077328">A length of copper wire is represented by means of a line</para>
+        <para id="id7077334">A light bulb is represented by means of: </para>
+        <para id="id7077339">
+          <emphasis effect="bold">A cell (the long thin line is the +) </emphasis>
+          <emphasis effect="bold"/>
+        </para>
+        <para id="id7077356">An ammeter (to measure the strength of the current)    </para>
+        <para id="id7077365">
+          <emphasis effect="bold">A switch</emphasis>
+          <emphasis effect="bold">:  Open:</emphasis>
+        </para>
+        <para id="id7077379"/>
+        <para id="id7077384">
+          <emphasis effect="bold">Closed:</emphasis>
+        </para>
+        <para id="id7077393">A current diagram will always contain these components (parts). When we place all the components one after the other they are in series.</para>
+        <para id="id7077399">The diagram is always drawn in the form of a square. A simple circuit diagram will be drawn as follows.</para>
+        <para id="id7077408">Components can also be linked in parallel, as shown below.</para>
+        <para id="id7077413">Assignment 2:</para>
+        <para id="id7077417">Now draw three light bulbs that are linked in parallel – make use of symbols.</para>
+        <para id="id7077424">In a parallel linkage, the current is divided. If one of the light bulbs breaks the others will continue to glow!</para>
+        <para id="id7077430">The light bulbs in you home are mostly in ________________________________.</para>
+        <para id="id7077441">Assessment of Sketch</para>
+        <para id="id7077461">Were you able to draw the sketch and add labels correctly?</para>
+        <para id="id7077466">          [LO 2.4]</para>
+      </section>
+    </section>
+    <section id="id7077483">
+      <title>Assessment</title>
+      <para id="id7077490">LO 2: Constructing Science Knowledge: </para>
+      <para id="id7077494">The learner will know and be able to interpret and apply scientific, technological and environmental knowledge.</para>
+      <para id="id7077500">This is evident when the learner:</para>
+      <list id="id7077504" list-type="bulleted">
+        <item>interprets information;</item>
+      </list>
+      <para id="id7077516"/>
+    </section>
+    <section id="id7077522">
+      <title>Memorandum </title>
+      <para id="id7077528">Assignment 1:</para>
+      <para id="id7077533">An electric circuit comprises:</para>
+      <para id="id7077537">1. An electrical point and closed circuits.</para>
+      <para id="id7077543">2. A source – cell or battery</para>
+      <para id="id7077552">conductors – wires</para>
+      <para id="id7077556">a switch – controlling point</para>
+      <para id="id7077562">other components like light bulbs, resistors and measuring instruments.</para>
+      <para id="id7077567">cellbattery</para>
+      <para id="id7077691">Positive cellpool</para>
+      <para id="id7077798"/>
+      <para id="id7077995"/>
+      <para id="id6490156">A Battery is a collection of cells.</para>
+      <para id="id6490160">Drawing a number of components may be a nuisance and time-consuming. You need symbols that could provide shortcuts. Scientists have fortunately devised these already and they are used internationally!</para>
+      <para id="id6490172">
+        <figure id="id6490175">
+          <media id="id6490175_media" alt="">
+            <image mime-type="image/png" src="../../media/graphics2-cd8a.png" id="id6490175__onlineimage" height="255" width="88"/>
+          </media>
+        </figure>
+        <emphasis effect="bold">A length of copper wire is represented by means of a line </emphasis>
+      </para>
+      <para id="id6490208">A light bulb is represented by means of:  </para>
+      <para id="id6490214">A cell (the long thin line is the +) </para>
+      <para id="id6490219">An ammeter (to measure the strength of the current)</para>
+      <para id="id6490225">A switch   </para>
+      <para id="id6490239">Assignment 2:</para>
+      <list id="id6490243" list-type="bulleted">
+        <item>A circuit diagram always contains these components (or parts) of the current.</item>
+        <item>To begin, we arrange the components in line – this is known as "in series".</item>
+        <item>The diagram is always drawn in the form of a square. A typical diagram is shown as:</item>
+      </list>
+      <para id="id6490269">A circuit diagram of three cells in series, an open switch, two light bulbs in series and an ammeter.</para>
+      <para id="id6490275">
+        <figure id="id6490278">
+          <media id="id6490278_media" alt="">
+            <image mime-type="image/png" src="../../media/graphics3-ee2f.png" id="id6490278__onlineimage" height="285" width="438"/>
+          </media>
+        </figure>
+      </para>
+      <para id="id6490318">The concept of connection/linking in parallel may be difficult to understand. In the case of cells it can be shown as:</para>
+      <figure id="id6490328">
+        <media id="id6490328_media" alt="">
+          <image mime-type="image/png" src="../../media/graphics4-1191.png" id="id6490328__onlineimage" height="273" width="400"/>
+        </media>
+      </figure>
+      <para id="id6490350">ELECTRICITY AND ITS USES IN THE HOME</para>
+      <para id="id6490354"> THE LIGHT BULB:</para>
+      <list id="id6490366" list-type="bulleted">
+        <item>We'll begin with the light bulb. We have said that the light bulb represents ineffective utilisation of electric power. This is because 95 of the 100J are lost to heat and only 5J go towards light energy.</item>
+        <item>We therefore need to think of a more economical means for lighting. But before we can investigate the issue further, we need to know what a typical light bulb consists of.</item>
+        <item>The light bulb comprises a glass bulb filled with a particular gas, which isn't oxygen.</item>
+        <item>The light bulb comprises a glass bulb filled with a particular gas, which isn't oxygen.</item>
+      </list>
+      <para id="id6490406">Why not? Wait and see. The wires inside a light bulb are wound up in small spirals. They are actually made of a particular metal filament (tungsten) that has resistance. This means that it tries to block the current and therefore becomes extremely hot. The heat is so intense that it begins to glow and becomes white hot! If the glass bulb were to be filled with oxygen, the intensity of the heat would melt everything. But the hollow is filled with a stable gas – Argon.</para>
+      <figure id="id6490438">
+        <media id="id6490438_media" alt="">
+          <image mime-type="image/png" src="../../media/graphics5-c2fc.png" id="id6490438__onlineimage" height="284" width="263"/>
+        </media>
+      </figure>
+      <para id="id6490460"/>
+      <para id="id6490464">FLUORESCENT LIGHTS AND ECO-LAMPS:</para>
+      <para id="id6490470"> Fluorescent lights (neon lights) are used in many offices and schools, as well as in some homes. They are filled with a particular gas and are lined with a chemical substance that emits light when an electric current passes through the tube. Fluorescent lights do not build up much heat, which reveals something of their effectiveness. </para>
+      <para id="id6490496"> Eco-lamps: As we pay for our electricity, and also because electricity supply is limited, it is important for consumers to have electrical appliances that utilise electricity effectively. Fluorescent lights and eco-lamps do cost more, but they last much longer.</para>
+      <para id="id6490515">
+        <figure id="id6490522">
+          <media id="id6490522_media" alt="">
+            <image mime-type="image/png" src="../../media/graphics6-b6b8.png" id="id6490522__onlineimage" height="152" width="138"/>
+          </media>
+        </figure>
+      </para>
+    </section>
+  </content>
+</document>
